@@ -16,16 +16,16 @@ You need to authenticate your Google Earth Engine (GEE) account. Run the followi
 1. Load the GeoJSON File
 2. Convert GeoJSON to Earth Engine Geometry
 3. Load Landsat Image Collection
-Clip the First Image to the AOI
-Display the Clipped Image
-Calculate NDWI
-Calculate Monthly Mean NDWI
-Calculate Surface Water Extent
-Generate Time Series Data for Visualization
-Convert Feature Collection to List of Dictionaries and Extract Dates and NDWI Values
-Plot Monthly Mean NDWI
-Calculate Surface Water Body Extent for Each Monthly NDWI Image
-Plot Surface Water Body Extent Over Time
-Normalize and Plot 2D Column Chart for Surface Water Body Extent Over Time
-Visualize Monthly Mean NDWI Images
+4. Clip the First Image to the AOI
+5. Display the Clipped Image
+6. Calculate NDWI
+7. Calculate Monthly Mean NDWI
+8. Calculate Surface Water Extent
+9. Generate Time Series Data for Visualization
+10. Convert Feature Collection to List of Dictionaries and Extract Dates and NDWI Values
+11. Plot Monthly Mean NDWI
+12. Calculate Surface Water Body Extent for Each Monthly NDWI Image
+13. Plot Surface Water Body Extent Over Time
+14. Normalize and Plot 2D Column Chart for Surface Water Body Extent Over Time
+15. Visualize Monthly Mean NDWI Images
 
