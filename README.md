@@ -13,9 +13,9 @@ Install Required Libraries
 # Google Earth Engine Authentication
 You need to authenticate your Google Earth Engine (GEE) account. Run the following command to initialize and authenticate:
 # steps to calculate surface water body extents for over time periods
-Load the GeoJSON File
-Convert GeoJSON to Earth Engine Geometry
-Load Landsat Image Collection
+1. Load the GeoJSON File
+2. Convert GeoJSON to Earth Engine Geometry
+3. Load Landsat Image Collection
 Clip the First Image to the AOI
 Display the Clipped Image
 Calculate NDWI
